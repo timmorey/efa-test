@@ -1,0 +1,1 @@
+export { default } from 'efa-test/components/efa-test';
